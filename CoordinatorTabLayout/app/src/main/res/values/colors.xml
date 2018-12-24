@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80000000</color>
+    <color name="colorPrimaryDark">#ff7200</color>
+    <color name="colorAccent">#8a8a8a</color>
+    <color name="white">#ffffff</color>
+    <color name="search_bar_bg_color">#eeeeee</color>
+    <color name="text_default_color">#888888</color>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoordinatorTabLayout</string>
+    <string name="search_hint">请输入关键字</string>
+</resources>
